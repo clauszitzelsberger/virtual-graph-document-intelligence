@@ -1,0 +1,21 @@
+filename,title,type,publishedOn
+STD-ISO26262-6-working-summary.pdf,ISO 26262-6 Working Summary: Software Level Product Development,Standard,2025-02-10
+STD-UNECE-R100-working-summary.pdf,UN ECE R100 Rev.3 Working Summary: Electrical Safety of the Traction Battery,Standard,2026-04-14
+STD-IEC62660-2-working-summary.pdf,IEC 62660-2 Working Summary: Reliability and Abuse Testing of Traction Cells,Standard,2025-05-20
+STD-ISO21434-working-summary.pdf,ISO/SAE 21434 Working Summary: Cybersecurity for Connected Vehicle Functions,Standard,2025-09-02
+POL-change-control.pdf,Change Control Policy,Policy,2025-03-01
+POL-defect-escalation.pdf,Defect Escalation Policy,Policy,2025-03-01
+POL-milestone-gate.pdf,Milestone Gate Policy,Policy,2025-01-15
+POL-requirement-traceability.pdf,Requirement Traceability Policy,Policy,2025-01-15
+DG-hv-wiring.pdf,Design Guideline: High Voltage Wiring and Contactors,DesignGuideline,2025-06-30
+DG-bms-software.pdf,Design Guideline: Battery Management System Software,DesignGuideline,2025-08-18
+DG-interior-lighting.pdf,Design Guideline: Interior Lighting Electronics,DesignGuideline,2025-04-07
+BP-battery-management-system.pdf,Best Practice: Designing the Battery Management System,BestPractice,2025-11-24
+BP-gate-driver-board.pdf,Best Practice: Gate Driver Board Design for Traction Inverters,BestPractice,2026-02-16
+BP-lessons-learned-gen1-battery.pdf,Lessons Learned: Gen1 Battery Program,BestPractice,2025-10-06
+MM-2026-06-12-change-control-board.pdf,Change Control Board Meeting Minutes 2026-06-12,MeetingMinutes,2026-06-12
+MM-2026-08-27-hvb-weekly.pdf,High Voltage Battery Engineering Weekly 2026-08-27,MeetingMinutes,2026-08-27
+MM-2026-09-15-ms-d-readiness-review.pdf,Design Validation Readiness Review MS-D 2026-09-15,MeetingMinutes,2026-09-15
+EM-2026-06-03-cr-0001-impact.pdf,Email Thread: CR-0001 Impact on HV Junction Box Requirements,Email,2026-06-03
+EM-2026-07-21-req-ilt-0090-untested.pdf,Email Thread: REQ-ILT-0090 Has No Test Coverage,Email,2026-07-21
+EM-2026-09-02-def-1114-escalation.pdf,Email Thread: Escalation of DEF-1114 Gate Driver Board,Email,2026-09-02

@@ -1,0 +1,7 @@
+milestoneId,name,deadline,status,productName
+MS-A,Concept Freeze,2025-11-14,Reached,Nova EV
+MS-B,Design Freeze,2026-03-20,Reached,Nova EV
+MS-C,Prototype Build Release,2026-07-10,Missed,Nova EV
+MS-D,Design Validation Complete,2026-10-16,Planned,Nova EV
+MS-E,Pre-Series Release,2027-02-12,Planned,Nova EV
+MS-F,Production Validation Complete,2027-06-18,Planned,Nova EV
